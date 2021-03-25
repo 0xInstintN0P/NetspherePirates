@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<experience string_table="language/xml/experience_string_table.xml">
+	<exp require="1" accumulate="0  " name_key="LEVEL_0" />
+	<exp require="1" accumulate="1  " name_key="LEVEL_1" />
+	<exp require="1" accumulate="2  " name_key="LEVEL_2" />
+	<exp require="1" accumulate="3  " name_key="LEVEL_3" />
+	<exp require="1" accumulate="4  " name_key="LEVEL_4" />
+	<exp require="1" accumulate="5  " name_key="LEVEL_5" />
+	<exp require="1" accumulate="6  " name_key="LEVEL_6" />
+	<exp require="1" accumulate="7  " name_key="LEVEL_7" />
+	<exp require="1" accumulate="8  " name_key="LEVEL_8" />
+	<exp require="1" accumulate="9  " name_key="LEVEL_9" />
+	<exp require="1" accumulate="10 " name_key="LEVEL_10" />
+	<exp require="1" accumulate="11 " name_key="LEVEL_11" />
+	<exp require="1" accumulate="12 " name_key="LEVEL_12" />
+	<exp require="1" accumulate="13 " name_key="LEVEL_13" />
+	<exp require="1" accumulate="14 " name_key="LEVEL_14" />
+	<exp require="1" accumulate="15 " name_key="LEVEL_15" />
+	<exp require="1" accumulate="16 " name_key="LEVEL_16" />
+	<exp require="1" accumulate="17 " name_key="LEVEL_17" />
+	<exp require="1" accumulate="18 " name_key="LEVEL_18" />
+	<exp require="1" accumulate="19 " name_key="LEVEL_19" />
+	<exp require="1" accumulate="20 " name_key="LEVEL_20" />
+	<exp require="1" accumulate="21 " name_key="LEVEL_21" />
+	<exp require="1" accumulate="22 " name_key="LEVEL_22" />
+	<exp require="1" accumulate="23 " name_key="LEVEL_23" />
+	<exp require="1" accumulate="24 " name_key="LEVEL_24" />
+	<exp require="1" accumulate="25 " name_key="LEVEL_25" />
+	<exp require="1" accumulate="26 " name_key="LEVEL_26" />
+	<exp require="1" accumulate="27 " name_key="LEVEL_27" />
+	<exp require="1" accumulate="28 " name_key="LEVEL_28" />
+	<exp require="1" accumulate="29 " name_key="LEVEL_29" />
+	<exp require="1" accumulate="30 " name_key="LEVEL_30" />
+	<exp require="1" accumulate="31 " name_key="LEVEL_31" />
+	<exp require="1" accumulate="32 " name_key="LEVEL_32" />
+	<exp require="1" accumulate="33 " name_key="LEVEL_33" />
+	<exp require="1" accumulate="34 " name_key="LEVEL_34" />
+	<exp require="1" accumulate="35 " name_key="LEVEL_35" />
+	<exp require="1" accumulate="36 " name_key="LEVEL_36" />
+	<exp require="1" accumulate="37 " name_key="LEVEL_37" />
+	<exp require="1" accumulate="38 " name_key="LEVEL_38" />
+	<exp require="1" accumulate="39 " name_key="LEVEL_39" />
+	<exp require="1" accumulate="40 " name_key="LEVEL_40" />
+	<exp require="1" accumulate="41 " name_key="LEVEL_41" />
+	<exp require="1" accumulate="42 " name_key="LEVEL_42" />
+	<exp require="1" accumulate="43 " name_key="LEVEL_43" />
+	<exp require="1" accumulate="44 " name_key="LEVEL_44" />
+	<exp require="1" accumulate="45 " name_key="LEVEL_45" />
+	<exp require="1" accumulate="46 " name_key="LEVEL_46" />
+	<exp require="1" accumulate="47 " name_key="LEVEL_47" />
+	<exp require="1" accumulate="48 " name_key="LEVEL_48" />
+	<exp require="1" accumulate="49 " name_key="LEVEL_49" />
+	<exp require="1" accumulate="50 " name_key="LEVEL_50" />
+	<exp require="1" accumulate="51 " name_key="LEVEL_51" />
+	<exp require="1" accumulate="52 " name_key="LEVEL_52" />
+	<exp require="1" accumulate="53 " name_key="LEVEL_53" />
+	<exp require="1" accumulate="54 " name_key="LEVEL_54" />
+	<exp require="1" accumulate="55 " name_key="LEVEL_55" />
+	<exp require="1" accumulate="56 " name_key="LEVEL_56" />
+	<exp require="1" accumulate="57 " name_key="LEVEL_57" />
+	<exp require="1" accumulate="58 " name_key="LEVEL_58" />
+	<exp require="1" accumulate="59 " name_key="LEVEL_59" />
+	<exp require="1" accumulate="60 " name_key="LEVEL_60" />
+	<exp require="1" accumulate="61 " name_key="LEVEL_61" />
+	<exp require="1" accumulate="62 " name_key="LEVEL_62" />
+	<exp require="1" accumulate="63 " name_key="LEVEL_63" />
+	<exp require="1" accumulate="64 " name_key="LEVEL_64" />
+	<exp require="1" accumulate="65 " name_key="LEVEL_65" />
+	<exp require="1" accumulate="66 " name_key="LEVEL_66" />
+	<exp require="1" accumulate="67 " name_key="LEVEL_67" />
+	<exp require="1" accumulate="68 " name_key="LEVEL_68" />
+	<exp require="1" accumulate="69 " name_key="LEVEL_69" />
+	<exp require="1" accumulate="70 " name_key="LEVEL_70" />
+	<exp require="1" accumulate="71 " name_key="LEVEL_71" />
+	<exp require="1" accumulate="72 " name_key="LEVEL_72" />
+	<exp require="1" accumulate="73 " name_key="LEVEL_73" />
+	<exp require="1" accumulate="74 " name_key="LEVEL_74" />
+	<exp require="1" accumulate="75 " name_key="LEVEL_75" />
+	<exp require="1" accumulate="76 " name_key="LEVEL_76" />
+	<exp require="1" accumulate="77 " name_key="LEVEL_77" />
+	<exp require="1" accumulate="78 " name_key="LEVEL_78" />
+	<exp require="1" accumulate="79 " name_key="LEVEL_79" />
+	<exp require="1" accumulate="80 " name_key="LEVEL_80" />
+	<exp require="1" accumulate="81 " name_key="LEVEL_81" />
+	<exp require="1" accumulate="82 " name_key="LEVEL_82" />
+	<exp require="1" accumulate="83 " name_key="LEVEL_83" />
+	<exp require="1" accumulate="84 " name_key="LEVEL_84" />
+	<exp require="1" accumulate="85 " name_key="LEVEL_85" />
+	<exp require="1" accumulate="86 " name_key="LEVEL_86" />
+	<exp require="1" accumulate="87 " name_key="LEVEL_87" />
+	<exp require="1" accumulate="88 " name_key="LEVEL_88" />
+	<exp require="1" accumulate="89 " name_key="LEVEL_89" />
+	<exp require="1" accumulate="90 " name_key="LEVEL_90" />
+	<exp require="1" accumulate="91 " name_key="LEVEL_91" />
+	<exp require="1" accumulate="92 " name_key="LEVEL_92" />
+	<exp require="1" accumulate="93 " name_key="LEVEL_93" />
+	<exp require="1" accumulate="94 " name_key="LEVEL_94" />
+	<exp require="1" accumulate="95 " name_key="LEVEL_95" />
+	<exp require="1" accumulate="96 " name_key="LEVEL_96" />
+	<exp require="1" accumulate="97 " name_key="LEVEL_97" />
+	<exp require="1" accumulate="98 " name_key="LEVEL_98" />
+	<exp require="1" accumulate="99 " name_key="LEVEL_99" />
+	<exp require="1" accumulate="100" name_key="LEVEL_100" />
+	<exp require="1" accumulate="101" name_key="LEVEL_101" />
+	<exp require="1" accumulate="102" name_key="LEVEL_102" />
+	<exp require="1" accumulate="103" name_key="LEVEL_103" />
+	<exp require="1" accumulate="104" name_key="LEVEL_104" />
+	<exp require="1" accumulate="105" name_key="LEVEL_105" />
+	<exp require="1" accumulate="106" name_key="LEVEL_106" />
+	<exp require="1" accumulate="107" name_key="LEVEL_107" />
+	<exp require="1" accumulate="108" name_key="LEVEL_108" />
+	<exp require="1" accumulate="109" name_key="LEVEL_109" />
+	<exp require="1" accumulate="110" name_key="LEVEL_110" />
+	<exp require="1" accumulate="111" name_key="LEVEL_111" />
+	<exp require="1" accumulate="112" name_key="LEVEL_112" />
+	<exp require="1" accumulate="113" name_key="LEVEL_113" />
+	<exp require="1" accumulate="114" name_key="LEVEL_114" />
+	<exp require="1" accumulate="115" name_key="LEVEL_115" />
+	<exp require="1" accumulate="116" name_key="LEVEL_116" />
+	<exp require="1" accumulate="117" name_key="LEVEL_117" />
+	<exp require="1" accumulate="118" name_key="LEVEL_118" />
+	<exp require="1" accumulate="119" name_key="LEVEL_119" />
+	<exp require="1" accumulate="120" name_key="LEVEL_120" />
+	<exp require="1" accumulate="121" name_key="LEVEL_121" />
+	<exp require="1" accumulate="122" name_key="LEVEL_122" />
+	<exp require="1" accumulate="123" name_key="LEVEL_123" />
+	<exp require="1" accumulate="124" name_key="LEVEL_124" />
+	<exp require="1" accumulate="125" name_key="LEVEL_125" />
+	<exp require="1" accumulate="126" name_key="LEVEL_126" />
+	<exp require="1" accumulate="127" name_key="LEVEL_127" />
+	<exp require="1" accumulate="128" name_key="LEVEL_128" />
+	<exp require="1" accumulate="129" name_key="LEVEL_129" />
+	<exp require="1" accumulate="130" name_key="LEVEL_130" />
+	<exp require="1" accumulate="131" name_key="LEVEL_131" />
+	<exp require="1" accumulate="132" name_key="LEVEL_132" />
+	<exp require="1" accumulate="133" name_key="LEVEL_133" />
+	<exp require="1" accumulate="134" name_key="LEVEL_134" />
+	<exp require="1" accumulate="135" name_key="LEVEL_135" />
+	<exp require="1" accumulate="136" name_key="LEVEL_136" />
+	<exp require="1" accumulate="137" name_key="LEVEL_137" />
+	<exp require="1" accumulate="138" name_key="LEVEL_138" />
+	<exp require="1" accumulate="139" name_key="LEVEL_139" />
+	<exp require="1" accumulate="140" name_key="LEVEL_140" />
+	<exp require="1" accumulate="141" name_key="LEVEL_141" />
+	<exp require="1" accumulate="142" name_key="LEVEL_142" />
+	<exp require="1" accumulate="143" name_key="LEVEL_143" />
+	<exp require="1" accumulate="144" name_key="LEVEL_144" />
+	<exp require="1" accumulate="145" name_key="LEVEL_145" />
+	<exp require="1" accumulate="146" name_key="LEVEL_146" />
+	<exp require="1" accumulate="147" name_key="LEVEL_147" />
+	<exp require="1" accumulate="148" name_key="LEVEL_148" />
+	<exp require="1" accumulate="149" name_key="LEVEL_149" />
+	<exp require="1" accumulate="150" name_key="LEVEL_150" />
+	<exp require="1" accumulate="151" name_key="LEVEL_151" />
+	<exp require="1" accumulate="152" name_key="LEVEL_152" />
+	<exp require="1" accumulate="153" name_key="LEVEL_153" />
+	<exp require="1" accumulate="154" name_key="LEVEL_154" />
+	<exp require="1" accumulate="155" name_key="LEVEL_155" />
+	<exp require="1" accumulate="156" name_key="LEVEL_156" />
+	<exp require="1" accumulate="157" name_key="LEVEL_157" />
+	<exp require="1" accumulate="158" name_key="LEVEL_158" />
+	<exp require="1" accumulate="159" name_key="LEVEL_159" />
+	<exp require="1" accumulate="160" name_key="LEVEL_160" />
+	<exp require="1" accumulate="161" name_key="LEVEL_161" />
+	<exp require="1" accumulate="162" name_key="LEVEL_162" />
+	<exp require="1" accumulate="163" name_key="LEVEL_163" />
+	<exp require="1" accumulate="164" name_key="LEVEL_164" />
+	<exp require="1" accumulate="165" name_key="LEVEL_165" />
+	<exp require="1" accumulate="166" name_key="LEVEL_166" />
+	<exp require="1" accumulate="167" name_key="LEVEL_167" />
+	<exp require="1" accumulate="168" name_key="LEVEL_168" />
+	<exp require="1" accumulate="169" name_key="LEVEL_169" />
+	<exp require="1" accumulate="170" name_key="LEVEL_170" />
+	<exp require="1" accumulate="171" name_key="LEVEL_171" />
+	<exp require="1" accumulate="172" name_key="LEVEL_172" />
+	<exp require="1" accumulate="173" name_key="LEVEL_173" />
+	<exp require="1" accumulate="174" name_key="LEVEL_174" />
+	<exp require="1" accumulate="175" name_key="LEVEL_175" />
+	<exp require="1" accumulate="176" name_key="LEVEL_176" />
+	<exp require="1" accumulate="177" name_key="LEVEL_177" />
+	<exp require="1" accumulate="178" name_key="LEVEL_178" />
+	<exp require="1" accumulate="179" name_key="LEVEL_179" />
+	<exp require="1" accumulate="180" name_key="LEVEL_180" />
+	<exp require="1" accumulate="181" name_key="LEVEL_181" />
+	<exp require="1" accumulate="182" name_key="LEVEL_182" />
+	<exp require="1" accumulate="183" name_key="LEVEL_183" />
+	<exp require="1" accumulate="184" name_key="LEVEL_184" />
+	<exp require="1" accumulate="185" name_key="LEVEL_185" />
+	<exp require="1" accumulate="186" name_key="LEVEL_186" />
+	<exp require="1" accumulate="187" name_key="LEVEL_187" />
+	<exp require="1" accumulate="188" name_key="LEVEL_188" />
+	<exp require="1" accumulate="189" name_key="LEVEL_189" />
+	<exp require="1" accumulate="190" name_key="LEVEL_190" />
+	<exp require="1" accumulate="191" name_key="LEVEL_191" />
+	<exp require="1" accumulate="192" name_key="LEVEL_192" />
+	<exp require="1" accumulate="193" name_key="LEVEL_193" />
+	<exp require="1" accumulate="194" name_key="LEVEL_194" />
+	<exp require="1" accumulate="195" name_key="LEVEL_195" />
+	<exp require="1" accumulate="196" name_key="LEVEL_196" />
+	<exp require="1" accumulate="197" name_key="LEVEL_197" />
+	<exp require="1" accumulate="198" name_key="LEVEL_198" />
+	<exp require="1" accumulate="199" name_key="LEVEL_199" />
+	<exp require="1" accumulate="200" name_key="LEVEL_200" />
+	<exp require="1" accumulate="201" name_key="LEVEL_201" />
+	<exp require="1" accumulate="202" name_key="LEVEL_202" />
+	<exp require="1" accumulate="203" name_key="LEVEL_203" />
+	<exp require="1" accumulate="204" name_key="LEVEL_204" />
+	<exp require="1" accumulate="205" name_key="LEVEL_205" />
+	<exp require="1" accumulate="206" name_key="LEVEL_206" />
+	<exp require="1" accumulate="207" name_key="LEVEL_207" />
+	<exp require="1" accumulate="208" name_key="LEVEL_208" />
+	<exp require="1" accumulate="209" name_key="LEVEL_209" />
+	<exp require="1" accumulate="210" name_key="LEVEL_210" />
+	<exp require="1" accumulate="211" name_key="LEVEL_211" />
+	<exp require="1" accumulate="212" name_key="LEVEL_212" />
+	<exp require="1" accumulate="213" name_key="LEVEL_213" />
+	<exp require="1" accumulate="214" name_key="LEVEL_214" />
+	<exp require="1" accumulate="215" name_key="LEVEL_215" />
+	<exp require="1" accumulate="216" name_key="LEVEL_216" />
+	<exp require="1" accumulate="217" name_key="LEVEL_217" />
+	<exp require="1" accumulate="218" name_key="LEVEL_218" />
+	<exp require="1" accumulate="219" name_key="LEVEL_219" />
+	<exp require="1" accumulate="220" name_key="LEVEL_220" />
+	<exp require="1" accumulate="221" name_key="LEVEL_221" />
+	<exp require="1" accumulate="222" name_key="LEVEL_222" />
+	<exp require="1" accumulate="223" name_key="LEVEL_223" />
+	<exp require="1" accumulate="224" name_key="LEVEL_224" />
+	<exp require="1" accumulate="225" name_key="LEVEL_225" />
+	<exp require="1" accumulate="226" name_key="LEVEL_226" />
+	<exp require="1" accumulate="227" name_key="LEVEL_227" />
+	<exp require="1" accumulate="228" name_key="LEVEL_228" />
+	<exp require="1" accumulate="229" name_key="LEVEL_229" />
+	<exp require="1" accumulate="230" name_key="LEVEL_230" />
+	<exp require="1" accumulate="231" name_key="LEVEL_231" />
+	<exp require="1" accumulate="232" name_key="LEVEL_232" />
+	<exp require="1" accumulate="233" name_key="LEVEL_233" />
+	<exp require="1" accumulate="234" name_key="LEVEL_234" />
+	<exp require="1" accumulate="235" name_key="LEVEL_235" />
+	<exp require="1" accumulate="236" name_key="LEVEL_236" />
+	<exp require="1" accumulate="237" name_key="LEVEL_237" />
+	<exp require="1" accumulate="238" name_key="LEVEL_238" />
+	<exp require="1" accumulate="239" name_key="LEVEL_239" />
+	<exp require="1" accumulate="240" name_key="LEVEL_240" />
+	<exp require="1" accumulate="241" name_key="LEVEL_241" />
+	<exp require="1" accumulate="242" name_key="LEVEL_242" />
+	<exp require="1" accumulate="243" name_key="LEVEL_243" />
+	<exp require="1" accumulate="244" name_key="LEVEL_244" />
+	<exp require="1" accumulate="245" name_key="LEVEL_245" />
+	<exp require="1" accumulate="246" name_key="LEVEL_246" />
+	<exp require="1" accumulate="247" name_key="LEVEL_247" />
+	<exp require="1" accumulate="248" name_key="LEVEL_248" />
+	<exp require="1" accumulate="249" name_key="LEVEL_249" />
+	<exp require="1" accumulate="250" name_key="LEVEL_250" />
+	<exp require="1" accumulate="251" name_key="LEVEL_251" />
+	<exp require="1" accumulate="252" name_key="LEVEL_252" />
+	<exp require="1" accumulate="253" name_key="LEVEL_253" />
+	<exp require="1" accumulate="254" name_key="LEVEL_254" />
+	<exp require="1" accumulate="255" name_key="LEVEL_255" />
+</experience>
