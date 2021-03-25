@@ -1,0 +1,8 @@
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\bin\Debug\netstandard2.0\Netsphere.deps.json
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\bin\Debug\netstandard2.0\Netsphere.dll
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\bin\Debug\netstandard2.0\Netsphere.pdb
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\obj\Debug\netstandard2.0\Netsphere.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\obj\Debug\netstandard2.0\Netsphere.AssemblyInfoInputs.cache
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\obj\Debug\netstandard2.0\Netsphere.AssemblyInfo.cs
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\obj\Debug\netstandard2.0\Netsphere.dll
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\Netsphere\obj\Debug\netstandard2.0\Netsphere.pdb
