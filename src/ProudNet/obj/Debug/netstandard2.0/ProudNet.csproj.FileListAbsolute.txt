@@ -1,0 +1,8 @@
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\bin\Debug\netstandard2.0\ProudNet.deps.json
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\bin\Debug\netstandard2.0\ProudNet.dll
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\bin\Debug\netstandard2.0\ProudNet.pdb
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\obj\Debug\netstandard2.0\ProudNet.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\obj\Debug\netstandard2.0\ProudNet.AssemblyInfoInputs.cache
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\obj\Debug\netstandard2.0\ProudNet.AssemblyInfo.cs
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\obj\Debug\netstandard2.0\ProudNet.dll
+C:\Users\Nico\Downloads\NetspherePirates-master\NetspherePirates-master\src\ProudNet\obj\Debug\netstandard2.0\ProudNet.pdb
